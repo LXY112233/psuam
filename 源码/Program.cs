@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 using System.Reflection;
 [assembly:AssemblyTitle("走动提醒")]
 [assembly:AssemblyDescription("可自定义的 Windows 后台走动提醒工具")]
-[assembly:AssemblyVersion("1.5.0.0")]
+[assembly:AssemblyVersion("1.5.1.0")]
 namespace QingMove
 {
     static class Program
